@@ -1,1 +1,1 @@
-# face-reco
+# Face Detection using OpenCV
